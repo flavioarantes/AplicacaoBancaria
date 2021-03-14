@@ -1,0 +1,16 @@
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.csprojAssemblyReference.cache
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfoInputs.cache
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfo.cs
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.CoreCompileInputs.cache
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\DIO.bank.exe
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\DIO.bank.deps.json
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.json
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.dev.json
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\DIO.bank.dll
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\ref\DIO.bank.dll
+C:\dotnet\revisao3\DIO.bank\bin\Debug\net5.0\DIO.bank.pdb
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.dll
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\ref\DIO.bank.dll
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.pdb
+C:\dotnet\revisao3\DIO.bank\obj\Debug\net5.0\DIO.bank.genruntimeconfig.cache
